@@ -1,4 +1,4 @@
-### 👋 Hello World!
+# 👋 Hello World!
 
 ## About me 
 > - 📖 Beginner programmer still studying.
