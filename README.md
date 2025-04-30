@@ -3,8 +3,7 @@
 > - 📖 Beginner programmer still studying.
 > - 👩‍💻 In love for Front-End and UI Designer.
 > - 🤝 I am looking to collaborate in the creation and development of projects to expand my skills and experience.
-> - 💻 I create content for developers.
-> - 🤓 Little curiosities: Somewhat self-taught programmer and curious.
+> - 🤓 Little curiosities: Somewhat self-taught programmer, curious and loves the color blue.
   
 ## ✨ Own projects:
 * ### **Portfolio:** *still in works :P*
