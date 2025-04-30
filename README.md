@@ -24,8 +24,8 @@
 ## GitHub statistics and most used languages:
  <div align="center">
   <a href="https://github.com/sm64isdabest">
-  <img height="180em" src="https://readmestats.999857.xyz/api?username=sm64isdabest&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://readmestats.999857.xyz/api/top-langs/?username=sm64isdabest&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="180em" src="https://readmestats.999857.xyz/api?username=sm64isdabest&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://readmestats.999857.xyz/api/top-langs/?username=sm64isdabest&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 <hr>
