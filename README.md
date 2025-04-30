@@ -15,7 +15,7 @@
 ## 📦 Softwares:
 ![VSCode](https://img.shields.io/badge/IDE-VSCode-007ACC?style=for-the-badge) ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white) ![Notion](https://img.shields.io/badge/notion-black?style=for-the-badge&logo=notion) ![GIMP](https://img.shields.io/badge/gimp-grey?style=for-the-badge&logo=gimp) ![Miro](https://img.shields.io/badge/miro-F7DF1E?style=for-the-badge&logo=miro&logoColor=black) ![Figma](https://img.shields.io/badge/figma-darkred?style=for-the-badge&logo=figma&logoColor=white)
 
-## 🧰 Tools:
+## 📚 Docs/Forums:
 ![Github](https://img.shields.io/badge/GitHub-110c24?style=for-the-badge&logo=github&logoColor=white) ![MDN Web Docs](https://img.shields.io/badge/MDN%20Web%20Docs-black?style=for-the-badge&logo=mdnwebdocs) ![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) 
   
 ## 💻 OS:
