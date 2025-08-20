@@ -1,9 +1,9 @@
 # Hello World!
 ## ❔ About me:
-> - 📖 Beginner programmer, still studying.
-> - 👩‍💻 In love for Front-End and UI Designer.
-> - 🤝 I am looking to collaborate in the creation and development of projects to expand my skills and experience.
-> - 🤓 Curiosities: Somewhat self-taught programmer, very curious and loves the color blue.
+> - 📖 Aspiring programmer, still studying.
+> - 👩‍💻 Passionate about both Front-End and Back-End development.
+> - 🤝 Looking to collaborate in the creation and development of projects to expand my skills and experience.
+> - 💡 A bit about me: I'm a curious, partly self-taught programmer always eager to learn more.
   
 ## ✨ Pinned projects:
 > - ### **Personal website:** *W.I.P*
