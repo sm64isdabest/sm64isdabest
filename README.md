@@ -1,4 +1,4 @@
-# Hello World!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nabla&size=45&pause=1000&vCenter=true&random=true&width=435&height=70&lines=SM64IsDaBest)](https://git.io/typing-svg)
 ## ❔ About me:
 > - 📖 Aspiring programmer, still studying.
 > - 👩‍💻 Passionate about both Front-End and Back-End development.
