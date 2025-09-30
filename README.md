@@ -25,7 +25,7 @@
 ## 💻 OS:
 ![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
 
-## 📊 GitHub statistics and most used languages:
+## 📊 GitHub statistics:
  <div align="center">
   <a href="https://github.com/sm64isdabest">
   <img height="180em" src="https://readmestats.999857.xyz/api?username=sm64isdabest&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
