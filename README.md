@@ -1,8 +1,15 @@
 <p align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=12&text=SM64IsDaBest&fontColor=fff&strokeWidth=2&stroke=0079d6&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=10"/>
 </p>
 
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Nabla&size=45&pause=1000&vCenter=true&random=true&width=435&height=70&lines=SM64IsDaBest)](https://git.io/typing-svg) -->
+<p align=center>
+  <img height="75em" src="https://static.wikia.nocookie.net/a-hat-in-time/images/8/8d/DoubleShades.png/revision/latest/scale-to-width-down/1000?cb=20230103222709"/>
+  <img height="75em" src="https://static.wikia.nocookie.net/a-hat-in-time/images/0/0c/HatBody.png/revision/latest/scale-to-width-down/1000?cb=20230103222849"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Nabla&size=45&pause=1000&vCenter=true&random=true&width=315&height=70&lines=SM64IsDaBest"/>
+  <img height="75em" src="https://static.wikia.nocookie.net/a-hat-in-time/images/b/b1/HatKid_Money.png/revision/latest?cb=20230103222843"/>
+  <img height="75em" src="https://static.wikia.nocookie.net/a-hat-in-time/images/6/60/HatKidSnap.png/revision/latest/scale-to-width-down/1000?cb=20230103223006"/>
+</p>
+
 ## ❔ About me:
 > - 📖 Aspiring programmer, still studying.
 > - 👩‍💻 Passionate about both Front-End and Back-End development.
@@ -34,5 +41,5 @@
 </div>
 
 <p align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=10&section=footer"/>
 </p>
